@@ -32,6 +32,5 @@ mainTurtle.color("blue")
 mainTurtle.pendown()
 mainTurtle.circle(90)
 
-mainTurtle.write("LOGIKA SCHOOL")
 mainTurtle.hideturtle()
 turtle.exitonclick()
